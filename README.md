@@ -1,5 +1,7 @@
 # EE 322 - Microcontrollers with Arduino
 
+<img width="600" alt="amy_arduino" src="https://user-images.githubusercontent.com/44534814/118201152-b0df5b80-b40b-11eb-9b3a-abaf107f9eda.png">
+
 ## What you'll need:
 [Arduino Starter Kit](https://www.amazon.com/ELEGOO-Project-Tutorial-Controller-Projects/dp/B01D8KOZF4/ref=sr_1_1_sspa?keywords=arduino+starter+kit&qid=1576614759&sr=8-1-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUFXVFMxTFJJTkI5OEMmZW5jcnlwdGVkSWQ9QTEwMTE0ODYzMEozVVM0MzM3MEc2JmVuY3J5cHRlZEFkSWQ9QTA5MTUwNjYzOEtZWFA5V0w5U1VCJndpZGdldE5hbWU9c3BfYXRmJmFjdGlvbj1jbGlja1JlZGlyZWN0JmRvTm90TG9nQ2xpY2s9dHJ1ZQ==)
 
@@ -18,3 +20,4 @@
 - ["HCSR04" by Martin Sosic](https://github.com/Martinsos/arduino-lib-hc-sr04) (Lab 7)
 - "LiquidCrystal" (preinstalled in Arudino IDE; Lab 9)
 - ["JC_Button" by Jack Christensen](https://github.com/JChristensen/JC_Button) (Lab 10)
+- ["SimpleDHT" by Winlin](https://github.com/winlinvip/SimpleDHT) (Lab 11)
